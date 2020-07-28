@@ -1,0 +1,15 @@
+abcdefg
+delete zzz -f
+insert abc
+delete abc -f
+insert abcabca
+count_entail abca
+replace abca a 2
+mul
+delete C2C
+sum 1 -f
+gcd 1 -b
+add
+sub
+print
+end

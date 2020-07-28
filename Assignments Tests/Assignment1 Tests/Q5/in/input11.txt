@@ -1,0 +1,13 @@
+EverthingIsInvalid
+delete  Everything
+replace Everything EEE  111
+insert    aaa
+sum 10   -f
+sum 20   -f
+pr int
+gcd 10   -f
+gcd 20   -b
+ad d
+mu l
+su b
+end

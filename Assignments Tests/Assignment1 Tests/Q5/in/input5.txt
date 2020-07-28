@@ -1,0 +1,26 @@
+aaaaaaa
+count_entail aa
+delete adsadfdsa -f
+insert hello
+insert abc
+insert hello
+insert xyz
+delete hello -f
+insert hello
+insert wz
+delete hello
+replace xy 10 0
+replace xy 10 1
+mul
+sum 2 -f
+sum 2 -b
+sum 1 -f
+sum 1 -f
+sum 1 -f
+sum 2 -f
+sum 2 -b
+gcd 2 -b
+gcd 3 -b
+gcd 2 -f
+sub
+end

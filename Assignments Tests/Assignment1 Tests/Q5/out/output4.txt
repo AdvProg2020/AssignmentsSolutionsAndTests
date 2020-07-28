@@ -1,0 +1,12 @@
+ahhhabc
+ahhhabcaddd
+ahhhabcadddbbbb
+ahhhabcadddbbbbabdd
+ahhhabcadddbbbbabddabd
+ahhhabcadd44dbbbbabddabd
+ahhhabcadd44dbb45bbabddabd
+THE COMMAND IS INVALID
+THE COMMAND IS INVALID
+ahhhabcadd1980bbabddabd
+CANNOT PERFORM THE COMMAND SUCCESSFULLY
+END OF PROGRAM

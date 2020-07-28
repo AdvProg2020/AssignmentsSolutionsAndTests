@@ -1,0 +1,19 @@
+abc
+insert 111N111
+mul
+insert N222
+sub
+sub
+sub
+mul
+add
+sum 1 -f
+sum something -f
+sum --- fff ---
+NOT A COMMAND
+gcd 2 -f
+gcd 1 -f
+gcd 1 -b
+delete bc
+print
+end

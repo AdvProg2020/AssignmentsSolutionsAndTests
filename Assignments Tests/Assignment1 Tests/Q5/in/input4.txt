@@ -1,0 +1,13 @@
+abcbchhhabc
+replace abc a 2
+insert addd
+insert bbbb
+insert abdd
+insert abd
+insert 44 10
+insert 45 15
+mult
+addt
+mul
+add
+end

@@ -1,0 +1,1 @@
+@#forward,x=8267,y=333,distance=6#@@#forward,x=8267,y=333,distance=1040#@@#forward,x=8267,y=333,distance=2074#@ghlesrhglkjerbg34wjkti43@#forward,x=8267,y=333,distance=3108#@@#forward,x=8267,y=333,distance=4142#@@#forward,x=8267,y=333,distance=5176#@@#forward,x=8267,y=333,distance=6210#@@#forward,x=8267,y=333,distance=7244#@@#forward,x=8267,y=333,distance=8278#@

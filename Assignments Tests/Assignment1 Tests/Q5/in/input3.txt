@@ -1,0 +1,19 @@
+Hello
+insert Again
+insert 123
+insertee 12
+insert oo
+insert 33
+insert what
+insert 11
+insert 11 0
+insert ss 1
+mul
+add
+sum 2 -f
+sum 2
+gcd 2
+gcd 2 -b
+delete oo
+mul
+end

@@ -1,0 +1,34 @@
+-1o-1RingToRuleThemAll-1o-1RingToFindThem1o1RingToBringThemAllAndInTheDarknessBindThem
+mul
+replace 1 One 1
+mul
+replace 1 One 1
+mult
+mul
+replace 1 One 1
+mul
+replace 1 One 1
+replacee Ring Nazg 4
+replace Ring Nazg 4
+replace ToRule Durbat 1
+replace ToBring Thrakat 1
+replace InTheDarkness BurzumIshi 1
+replace Bind Krimp 1
+delete To -f -f
+delete To -f
+replace ThemAll uluk 2
+replace Them atul 2
+replace And Agh 1
+replace Find Gimb 10
+replace One Ash 2
+replace One Ash 2
+insert Mordor
+insert _ 72
+insert 4oo4oo22oo
+gcd 2 -b
+gcd 4 -f
+sum 2 -b
+count_entail oo
+delete 4oo4oo22ooG4GG2GS8SC3C
+print
+end

@@ -1,0 +1,11 @@
+abccba01oo01
+print
+insert alphabet
+mul
+sum 1 -f
+delete abcc
+insert abcoooabczzz
+delete abc -f
+printer
+print -f
+end

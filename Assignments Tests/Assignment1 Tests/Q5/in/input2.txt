@@ -1,0 +1,20 @@
+Football
+insert 6aaa6a
+insert 4aaa6a
+insert 3aaa6a
+insert 2aaa6a
+insertee 6aaa6a
+insert Player 32
+add
+sub
+mul
+sum 2 -f
+sum 3 -f
+sum 4 -b
+gcd 2 -b
+gcd 3 -b
+gcd 4 -b
+count_entail aa
+delete aa -f
+print
+end

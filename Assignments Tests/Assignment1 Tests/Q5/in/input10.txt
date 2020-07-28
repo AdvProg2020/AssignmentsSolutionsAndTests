@@ -1,0 +1,8 @@
+abcabcabcabcabca
+count_entail abca
+insert __abca
+count_entail abca
+mul
+replace abca a 3
+print
+end

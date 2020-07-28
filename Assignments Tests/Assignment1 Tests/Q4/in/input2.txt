@@ -1,0 +1,1 @@
+@#forward,x=8381,y=7893,distance=0#@@#forward,x=8381,y=7893,distance=2878#@@#forward,x=8381,y=7893,distance=5756#@@#forward,x=8381,y=7893,distance=8634#@@#forward,x=8381,y=7893,distance=11512#@

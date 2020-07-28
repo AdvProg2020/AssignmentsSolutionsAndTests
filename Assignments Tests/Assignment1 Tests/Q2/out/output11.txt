@@ -1,0 +1,60 @@
+alaves
+albacete
+alcoyano
+almeria
+arenas
+athletic bilbao
+atletico madrid
+atlético tetuan
+barcelona
+burgos cf
+castellon
+celta vigo
+compostela
+condal
+cordoba
+cultural leonesa
+deportivo la coruna
+eibar
+elche
+espanyol
+europa
+extremadura
+getafe
+gimnastic
+girona
+granada
+hercules
+huesca
+jaen
+las palmas
+leganes
+levante
+lleida
+logrones
+malaga
+mallorca
+merida
+murcia
+numancia
+osasuna
+oviedo
+pontevedra
+racing santander
+rayo vallecano
+real betis
+real burgos
+real madrid
+real sociedad
+real union
+recreativo
+sabadell
+salamanca
+sevilla
+sporting gijon
+tenerife
+valencia
+valladolid
+villarreal
+xerez
+zaragoza

@@ -1,0 +1,7 @@
+abcabcabcabcabcaC5C
+abcabcabcabcabcaC5C__abca
+abcabcabcabcabcaC5C__abcaC6C
+abcabcabcabcabcaC30C
+abcabcaC30C
+abcabcaC30C
+END OF PROGRAM
