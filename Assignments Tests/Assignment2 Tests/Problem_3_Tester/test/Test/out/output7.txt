@@ -1,0 +1,87 @@
+folder created
+OS is windows 10
+folder created
+folder renamed
+folder deleted
+folders copied
+folder created
+paste completed
+folders copied
+paste completed
+X:
+Folders:
+one 0MB
+two 0MB
+Files:
+Text:
+file created
+X:\two 2
+X:\two\one 1
+files cut completed
+invalid command
+file exists with this name
+file renamed
+X 10000MB 1000MB
+Z 65000MB 0MB
+X:
+Folders:
+one 0MB
+two 0MB
+Files:
+s2 txt 1000MB
+Resolution:
+Extension:
+file created
+X:\one
+Folders:
+Files:
+image img 2000MB
+file deleted
+folder created
+folder created
+folders cut completed
+paste completed
+Quality:
+Video Length:
+file created
+invalid command
+X 10000MB 1000MB
+Z 65000MB 4000MB
+Z:\s
+Folders:
+Files:
+k mp4 4000MB
+Quality:
+Video Length:
+file created
+files cut completed
+paste completed
+X:
+Folders:
+one 0MB
+two 0MB
+Files:
+s2 txt 1000MB
+k mp4 4000MB
+m mp4 1000MB
+invalid command
+k mp4
+X:\k
+Size: 4000MB
+Quality: 360p
+Video Length: 01:12:49
+Resolution:
+Extension:
+file created
+files copied
+files copied
+folders copied
+folder created
+paste completed
+Z:\b
+Folders:
+one 0MB
+Files:
+invalid name
+X 10000MB 6050MB
+Z 65000MB 0MB

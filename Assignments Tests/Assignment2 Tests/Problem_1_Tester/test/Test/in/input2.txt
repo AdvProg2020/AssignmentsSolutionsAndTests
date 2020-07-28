@@ -1,0 +1,34 @@
+Add a customer with name agha tizi and 100 unit initial money.
+Add a customer with name akbar azadi<3<3<3 and 50 unit initial money.
+Add a customer with name akbar azadi<3<3<3 kolahi and 51 unit initial money.
+Add a customer with name akbar azadi<3<3<32 and 52 unit initial money.
+Add a customer with name akbar azadi<3<3<33 and 53 unit initial money.
+Create bank nokhostin ban@e irani.
+Create bank mehr.
+Create bank mellat.
+Create a BOLAN account for akbar azadi<3<3<3 kolahi in nokhostin ban@e irani, with duration 7 and initial deposit of 25.
+Create a BOLAN account for akbar azadi<3<3<32 in nokhostin ban@e irani, with duration 3 and initial deposit of 24.
+Create a BOLAN account for akbar azadi<3<3<33 in mellat, with duration 2 and initial deposit of 23.
+Create a BOLAN account for akbar azadi<3<3<3 in nokhostin ban@e irani, with duration 10 and initial deposit of 24.
+Create a BOLAN account for akbar azadi<3<3<3 kolahi in mellat, with duration 5 and initial deposit of 23.
+Create a KOOTAH account for agha tizi in mehr, with duration 5 and initial deposit of 50.
+Pass time by 4 unit.
+Give akbar azadi<3<3<3's money out of his account number 1.
+Give akbar azadi<3<3<3 kolahi's money out of his account number 2.
+Pass time by 10 unit.
+Print akbar azadi<3<3<3's GAVSANDOOGH money.
+Print akbar azadi<3<3<3 kolahi's GAVSANDOOGH money.
+Print akbar azadi<3<3<32's GAVSANDOOGH money.
+Print akbar azadi<3<3<33's GAVSANDOOGH money.
+Print agha tizi's GAVSANDOOGH money.
+Create a KOOTAH account for akbar azadi<3<3<3 kolahi in mehr, with duration 5 and initial deposit of 50.
+Create a KOOTAH account for akbar azadi<3<3<32 in mehr, with duration 10 and initial deposit of 1000.
+Print akbar azadi<3<3<32's GAVSANDOOGH money.
+Pass time by 20 unit.
+Print akbar azadi<3<3<3's GAVSANDOOGH money.
+Print akbar azadi<3<3<3 kolahi's GAVSANDOOGH money.
+Print akbar azadi<3<3<32's GAVSANDOOGH money.
+Print akbar azadi<3<3<33's GAVSANDOOGH money.
+Print agha tizi's GAVSANDOOGH money.
+Base dige, berid khonehatoon.
+

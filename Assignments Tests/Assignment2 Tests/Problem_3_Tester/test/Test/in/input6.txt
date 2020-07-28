@@ -1,0 +1,37 @@
+fdgdfgdfg dghfd 
+install OS windows 8
+8000 3
+A 100
+B 1000
+C 6900
+create folder a1
+create file b1 txt 100
+this is the text
+create file b2 img 12
+89*54
+jpg
+go to drive B
+print drives status
+create folder a2
+go to drive A
+open a1
+create folder a3
+status
+go to drive B
+rename folder a2 a4
+go to drive A
+delete file b1
+status
+go to drive B
+open a4
+create file b5 img 600
+560*1020
+jpg
+rename file b5 hsdfsd
+status
+print file stats hsdfsd
+print drives status
+back
+status
+fdgfdgdfgdf
+end 

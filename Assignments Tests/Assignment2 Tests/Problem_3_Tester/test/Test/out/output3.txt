@@ -1,0 +1,55 @@
+invalid command
+insufficient hard size
+invalid name
+folder created
+folder created
+folder created
+folder created
+folder exists with this name 
+folder deleted
+invalid command
+A:
+Folders:
+newFolder 0MB
+salam 0MB
+x 0MB
+Files:
+invalid name
+A:\x
+Folders:
+Files:
+invalid command
+invalid command
+Text:
+file created
+invalid name
+invalid name
+files cut completed
+paste completed
+A:
+Folders:
+newFolder 0MB
+salam 0MB
+x 0MB
+Files:
+gomez txt 400MB
+gomez txt
+A:\gomez
+Size: 400MB
+Text: sdfsdsdds sdfs sdipoi pp ytweupolm  mnvs q wajsdnzx
+invalid name
+file renamed
+folder renamed
+invalid name
+Text:
+file created
+A:
+Folders:
+newFolder2 500MB
+salam 0MB
+x 0MB
+Files:
+varane txt 400MB
+A 1650MB 900MB
+A:\x 3
+A:\newFolder2 1

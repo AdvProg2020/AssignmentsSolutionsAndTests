@@ -1,0 +1,119 @@
+K:
+Folders:
+Files:
+folder created
+folder created
+folder created
+folder exists with this name 
+folder renamed
+K:
+Folders:
+q 0MB
+y 0MB
+z 0MB
+Files:
+K 1000MB 0MB
+B 5000MB 0MB
+Text:
+file created
+ali txt
+K:\q\ali
+Size: 100MB
+Text: jjjjjkllldl kldd d oldk kdkfdk 
+file renamed
+ahmad txt
+K:\q\ahmad
+Size: 100MB
+Text: jjjjjkllldl kldd d oldk kdkfdk 
+K:\q 1
+K 1000MB 100MB
+B 5000MB 0MB
+Resolution:
+Extension:
+file created
+files copied
+paste completed
+K:\y
+Folders:
+Files:
+ali img 500MB
+K 1000MB 600MB
+B 5000MB 500MB
+folder created
+folders cut completed
+paste completed
+B:
+Folders:
+y 500MB
+Files:
+ali img 500MB
+K:\q 1
+B:\y 1
+K:\q 1
+ahmad txt
+K:\q\ahmad
+Size: 100MB
+Text: fdgfdgdfgdfgdf
+insufficient drive size
+invalid format
+file exists with this name 
+Quality:
+Video Length:
+file created
+K 1000MB 200MB
+B 5000MB 1000MB
+video mp4
+K:\q\video
+Size: 100MB
+Quality: 720p
+Video Length: 10:56:20
+K:\q
+Folders:
+Files:
+ahmad txt 100MB
+video mp4 100MB
+file renamed
+folder created
+file deleted
+K:\q
+Folders:
+real 0MB
+Files:
+mahdi mp4 100MB
+K 1000MB 100MB
+B 5000MB 1000MB
+Text:
+file created
+K:\q
+Folders:
+real 0MB
+Files:
+ahmad txt 600MB
+mahdi mp4 100MB
+files copied
+insufficient drive size
+paste completed
+B:
+Folders:
+y 500MB
+Files:
+ali img 500MB
+ahmad txt 600MB
+mahdi mp4 100MB
+K 1000MB 700MB
+B 5000MB 1700MB
+K:\q 2
+B:\y 1
+K:\z 1
+folder deleted
+B:
+Folders:
+Files:
+ali img 500MB
+ahmad txt 600MB
+mahdi mp4 100MB
+K 1000MB 700MB
+B 5000MB 1200MB
+K:\q 2
+B:\y 1
+K:\z 1

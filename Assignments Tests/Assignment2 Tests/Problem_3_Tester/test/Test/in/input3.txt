@@ -1,0 +1,49 @@
+hello world
+install OS windows xp
+1650 1
+C 2000
+c 2000
+A 1650
+create folder x
+create folder newFolder
+create folder newFolder2
+create folder salam
+create folder Salam
+delete folder NEWFOlder2
+copy x newFolder
+open x
+paste
+back
+status
+open x
+open x
+status
+ceate file lovren txt 160
+hello dfsd sdfgdsfsd sdfsd fsdfsd fsd5367hnj lkej oKUADHGhn
+create file gomez txt 400
+sdfsdsdds sdfs sdipoi pp ytweupolm  mnvs q wajsdnzx
+cut file gomez ronaldo
+paste
+open x
+cut file gomez
+back
+back
+paste
+status
+print file stats gomez
+go to drive F
+rename file gomez varane
+rename folder newFolder newFolder2
+open newFolder
+open newFolDER2
+create file dfsd txt 500
+sfdkh sdkhj  ksdj sdj jsd sdk sd
+write text dfsd
+dfkjjkf  klj fdjfdjkfd kf kkl  jf dkj fdk  dfjk k jf
+back
+status
+print drives status
+back
+open x
+print frequent folders
+end

@@ -1,0 +1,82 @@
+install OS windows 8
+65000 3
+A 16000
+a 16000
+b 598
+C 45000
+D 4000
+create folder itisOver
+create folder ITISOveR
+create file x img 1500
+2000*3000
+png
+create file Y img 100
+500*500
+jpg
+status
+create file X txt 600
+create file x2 mp4 400
+print frequent folders
+720p
+02:44:58
+bomb 
+status
+go to drive D
+back
+create folder images
+go to drive A
+cut file x2 y
+go to drive D
+open imageS
+paste
+go to drive A
+status
+print drives status
+create file x txt 15000
+dfg ddfg df gdfs df df df df gdf gdfgdfhfhjpkoghp,omlmopl,
+open itisover
+create file x txt 100
+is it?
+back
+go to drive B
+go to drive C
+create folder x
+rename folder x who
+rename folder x h
+rename khjhkj
+delete folder who
+create folder who
+open who
+status
+go to drive C
+status
+create folder who
+create folder new
+say bye
+what is this?
+open NEW
+create file corona img 1000
+rename file corona covid19
+status
+create folder iran
+print drives status
+status
+go to drive A
+status
+dfgdfgf
+copy file myFile
+copy file x
+create folder new
+open new
+paste
+status
+go to drive D
+open images
+copy file y
+copy file x2
+go to drive C
+paste
+status
+print drives status
+print frequent folders
+end

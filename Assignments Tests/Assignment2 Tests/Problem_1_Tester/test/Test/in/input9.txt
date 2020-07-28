@@ -1,0 +1,29 @@
+Add a customer with name agha tizi and 100 unit initial money.
+Add a customer with name akbar and 50 unit initial money.
+Create bank melli.
+Create bank mehr.
+Create a VIZHE account for akbar in melli, with duration 12 and initial deposit of 25.
+Create a BOLAN account for akbar in melli, with duration 12 and initial deposit of 50.
+Does akbar have active account in melli?
+Does agha tizi have active account in mehr?
+Create a KOOTAH account for agha tizi in mehr, with duration 2 and initial deposit of 50.
+Pass time by 6 unit.
+Give akbar's money out of his account number 2.
+Pay a 100 unit loan with %17 interest and 6 payments from melli to agha tizi.
+Print akbar's GAVSANDOOGH money.
+Print agha tizi's GAVSANDOOGH money.
+Pass time by 1 unit.
+Print agha tizi's GAVSANDOOGH money.
+Pass time by 4 unit.
+Print akbar's GAVSANDOOGH money.
+Print agha tizi's GAVSANDOOGH money.
+Give agha tizi's money out of his account number 1.
+Print akbar's GAVSANDOOGH money.
+Print agha tizi's GAVSANDOOGH money.
+Does akbar have active account in melli?
+Does agha tizi have active account in mehr?
+Pass time by 10 unit.
+Print akbar's GAVSANDOOGH money.
+Print agha tizi's GAVSANDOOGH money.
+Base dige, berid khonehatoon.
+

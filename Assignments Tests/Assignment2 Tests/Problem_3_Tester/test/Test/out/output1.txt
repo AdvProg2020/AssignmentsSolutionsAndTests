@@ -1,0 +1,22 @@
+folder created
+folder created
+folder created
+OS is Windows 10Pro
+Resolution:
+Extension:
+file created
+D:
+Folders:
+images 12MB
+Files:
+folder deleted
+C:
+Folders:
+programFiles 0MB
+Files:
+Text:
+file created
+file renamed
+C 100MB 60MB
+D 900MB 12MB
+file deleted

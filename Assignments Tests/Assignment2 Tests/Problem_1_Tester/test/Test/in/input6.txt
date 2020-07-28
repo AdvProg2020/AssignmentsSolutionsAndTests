@@ -1,0 +1,20 @@
+Add a customer with name agha tizi and 110 unit initial money.
+Create bank melli.
+Create bank b.
+Pay a 100 unit loan with %3 interest and 12 payments from b to agha tizi.
+Pay a 100 unit loan with %2 interest and 6 payments from melli to agha tizi.
+Create a BOLAN account for agha tizi in b, with duration 3 and initial deposit of 200.
+Create a BOLAN account for agha tizi in melli, with duration 2 and initial deposit of 110.
+Give agha tizi's money out of his account number 2.
+Pass time by 3 unit.
+Print agha tizi's GAVSANDOOGH money.
+Print agha tizi's NOMRE MANFI count.
+Create a BOLAN account for agha tizi in melli, with duration 2 and initial deposit of 270.
+Pass time by 2 unit.
+Print agha tizi's GAVSANDOOGH money.
+Print agha tizi's NOMRE MANFI count.
+Pass time by 10 unit.
+Print agha tizi's GAVSANDOOGH money.
+Print agha tizi's NOMRE MANFI count.
+Base dige, berid khonehatoon.
+

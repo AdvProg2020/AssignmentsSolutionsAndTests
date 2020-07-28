@@ -1,0 +1,51 @@
+invalid command
+insufficient hard size
+invalid name
+folder created
+folder created
+folder created
+folder renamed
+folder renamed
+folder created
+folder created
+Text:
+file created
+file exists with this name 
+invalid format
+insufficient drive size
+Quality:
+Video Length:
+file created
+A:\s 1
+folder created
+A:
+Folders:
+cmd 0MB
+s 300MB
+salam 0MB
+Files:
+A 1000MB 300MB
+B 49000MB 0MB
+folders cut completed
+invalid name
+paste completed
+folder created
+invalid name
+invalid name
+folder exists with this name 
+folder renamed
+invalid name
+folder renamed
+B:\moto
+Folders:
+Files:
+invalid name
+A 1000MB 0MB
+B 49000MB 300MB
+B:\moto 3
+OS is windows 10
+folder deleted
+A:
+Folders:
+salam 0MB
+Files:

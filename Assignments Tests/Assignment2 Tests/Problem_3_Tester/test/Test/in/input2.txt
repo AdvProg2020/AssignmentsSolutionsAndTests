@@ -1,0 +1,56 @@
+install OS Linux ubuntu
+cristiano is GOAT
+10000 4
+s 1100
+xy 50
+A 5000
+B 9000
+C 1200
+A 1000
+B 2500
+E 1300
+open x
+create folder x
+open x
+create folder x2
+back
+status
+copy x x2
+copy x
+go to drive C
+paste
+open x
+create file text txt 100
+fggkhj hgfdsfgh yulikujhygd fghkj4638543 ()))(9
+create file text img 83
+create file mm text 596
+sfsdf sdhfksdj  shdjk fhsdkfsdj fhsdk
+delete file text
+status
+back
+go to drive B
+create folder siiii
+create folder liverpool
+create folder champion
+opne folder x
+open siiii
+create file video mp4 3000
+create file video mp4 230
+1080p
+02:15:23
+back
+rename folder siiii liverpool
+rename folder siiii ronaldo
+status
+open ronaldo
+print file stats video
+go to drive E
+paste
+go to drive C
+cut x y
+cut x
+go to drive B
+paste
+status
+print OS information
+end

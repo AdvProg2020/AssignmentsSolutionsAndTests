@@ -1,0 +1,33 @@
+Add a customer with name aghaye pooldar and 15213 unit initial money.
+Add a customer with name marx and 4123 unit initial money.
+Add a customer with name borzhua and 6543 unit initial money.
+Create bank mellat.
+Create bank mellat ziba.
+Create a KOOTAH account for aghaye pooldar in mellat ziba, with duration 10 and initial deposit of 15001.
+Create a BOLAN account for borzhua in mellat, with duration 10 and initial deposit of 1032.
+Pass time by 5 unit.
+Pay a 100000 unit loan with %17 interest and 6 payments from mellat to aghaye pooldar.
+Pass time by 1 unit.
+Print aghaye pooldar's GAVSANDOOGH money.
+Print aghaye pooldar's NOMRE MANFI count.
+Create a BOLAN account for aghaye pooldar in mellat, with duration 10 and initial deposit of 8200.
+Pass time by 1 unit.
+Print aghaye pooldar's GAVSANDOOGH money.
+Print aghaye pooldar's NOMRE MANFI count.
+Pass time by 1 unit.
+Print aghaye pooldar's GAVSANDOOGH money.
+Print aghaye pooldar's NOMRE MANFI count.
+Pass time by 10 unit.
+Print aghaye pooldar's GAVSANDOOGH money.
+Print borzhua's GAVSANDOOGH money.
+Print aghaye pooldar's NOMRE MANFI count.
+Pay a 10000 unit loan with %5 interest and 12 payments from mellat ziba to aghaye pooldar.
+Pass time by 20 unit.
+Print aghaye pooldar's GAVSANDOOGH money.
+Print aghaye pooldar's NOMRE MANFI count.
+Pay a 1000 unit loan with %2 interest and 6 payments from mellat ziba to marx.
+Pass time by 20 unit.
+Print marx's GAVSANDOOGH money.
+Print marx's NOMRE MANFI count.
+Base dige, berid khonehatoon.
+

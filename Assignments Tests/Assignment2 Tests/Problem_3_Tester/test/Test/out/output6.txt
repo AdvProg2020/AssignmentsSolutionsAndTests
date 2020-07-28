@@ -1,0 +1,43 @@
+invalid command
+folder created
+Text:
+file created
+insufficient drive size
+invalid command
+invalid command
+A 100MB 100MB
+B 1000MB 0MB
+C 6900MB 0MB
+folder created
+folder created
+A:\a1
+Folders:
+a3 0MB
+Files:
+folder renamed
+file deleted
+A:
+Folders:
+a1 0MB
+Files:
+Resolution:
+Extension:
+file created
+file renamed
+B:\a4
+Folders:
+Files:
+hsdfsd img 600MB
+hsdfsd img
+B:\a4\hsdfsd
+Size: 600MB
+Resolution: 560*1020
+Extension: jpg
+A 100MB 0MB
+B 1000MB 600MB
+C 6900MB 0MB
+B:
+Folders:
+a4 600MB
+Files:
+invalid command

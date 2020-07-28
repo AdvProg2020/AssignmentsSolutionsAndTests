@@ -1,0 +1,17 @@
+Add a customer with name agha tizi and 100 unit initial money.
+Add a customer with name akbar and 50 unit initial money.
+Add a customer with name mika the real kaka and 3 unit initial money.
+Create bank melli.
+Create bank mehr.
+Create a VIZHE account for agha tizi in mellat, with duration 3 and initial deposit of 71.
+Create a VIZHE account for agha tizi in melli, with duration 3 and initial deposit of 71.
+Pay a 50 unit loan with %17 interest and 12 payments from mellat to mika the real kaka.
+Pay a 50 unit loan with %17 interest and 12 payments from melli to mika the real kaka.
+Create a BOLAN account for mika the real kaka in melli, with duration 3 and initial deposit of 50.
+Pass time by 20 unit.
+Print agha tizi's GAVSANDOOGH money.
+Print akbar's GAVSANDOOGH money.
+Print mika the real kaka's GAVSANDOOGH money.
+Print mika the real kaka's NOMRE MANFI count.
+Base dige, berid khonehatoon.
+

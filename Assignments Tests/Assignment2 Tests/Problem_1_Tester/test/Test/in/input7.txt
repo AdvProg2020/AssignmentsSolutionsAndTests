@@ -1,0 +1,46 @@
+Add a customer with name da lam and 100 unit initial money.
+Create bank melli.
+Create a VIZHE account for da lam in melli, with duration 2 and initial deposit of 99.
+Pass time by 1 unit.
+Print da lam's GAVSANDOOGH money.
+Pass time by 1 unit.
+Print da lam's GAVSANDOOGH money.
+Create bank gh.
+Print da lam's GAVSANDOOGH money.
+Pay a 1000 unit loan with %101 interest and 12 payments from gh to da lam.
+Pay a 1000 unit loan with %101 interest and 12 payments from melli to da lam.
+Print da lam's GAVSANDOOGH money.
+Pass time by 1 unit.
+Print da lam's GAVSANDOOGH money.
+Pass time by 1 unit.
+Print da lam's GAVSANDOOGH money.
+Pass time by 1 unit.
+Print da lam's GAVSANDOOGH money.
+Pass time by 1 unit.
+Print da lam's GAVSANDOOGH money.
+Pass time by 1 unit.
+Print da lam's GAVSANDOOGH money.
+Pass time by 1 unit.
+Print da lam's GAVSANDOOGH money.
+Pass time by 1 unit.
+Print da lam's GAVSANDOOGH money.
+Pass time by 1 unit.
+Print da lam's GAVSANDOOGH money.
+Pass time by 1 unit.
+Print da lam's GAVSANDOOGH money.
+Pass time by 1 unit.
+Print da lam's GAVSANDOOGH money.
+Pass time by 1 unit.
+Print da lam's GAVSANDOOGH money.
+Pass time by 1 unit.
+Print da lam's GAVSANDOOGH money.
+Pass time by 1 unit.
+Print da lam's GAVSANDOOGH money.
+Pass time by 1 unit.
+Create a VIZHE account for da lam in melli, with duration 2 and initial deposit of 99.
+Give da lam's money out of his account number 1.
+Give da lam's money out of his account number 2.
+Pass time by 10 unit.
+Print da lam's GAVSANDOOGH money.
+Base dige, berid khonehatoon.
+

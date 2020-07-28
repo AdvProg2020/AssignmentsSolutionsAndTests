@@ -1,0 +1,24 @@
+install OS Windows 10Pro
+1000 2
+C 100
+D 900
+create folder programFiles
+create folder AP
+go to drive D
+create folder images
+open images
+print OS information
+create file quera img 12
+1000*2000
+jpg
+back
+status
+go to drive C
+delete folder AP
+status
+create file tt txt 60
+this is our first test case
+rename file tt hello
+print drives status
+delete file hello
+end

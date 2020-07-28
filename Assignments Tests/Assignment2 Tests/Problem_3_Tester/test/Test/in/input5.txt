@@ -1,0 +1,57 @@
+install OS windows 10
+50000 2
+A 1000
+dfdfd
+B 50000
+b 49000
+B 49000
+create folder salam
+create folder go
+create folder s
+rename folder GO cristiano
+rename folder crisTIANO cmd
+open s
+create folder s
+create folder go
+create file s txt 100
+sffsji pop3534 3 ml34oi li3u3uyb as fds f
+create file s fghf 4444
+create file dfs dfdf 8888
+create file ll mp4 9994
+create file video mp4 200
+status
+open s
+print frequent folders
+create folder salam
+back
+back
+status
+print drives status
+cut folder s
+go to drive b
+go to drive B
+paste
+create folder x
+open x
+paste
+back
+cut file s video m
+paste
+cut file s VIdeO
+create folder x
+rename folder x bama
+open bama
+paste
+rename file s roman
+back
+rename folder bama moto
+open moto
+status
+print file stats video
+print drives status
+print frequent folders
+print OS information
+go to drive A
+delete folder cmd
+status
+end

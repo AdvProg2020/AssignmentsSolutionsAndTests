@@ -1,0 +1,75 @@
+ install OS Windows xp
+6000 2
+K 1000
+B 5000
+status
+create folder x
+create folder y
+create folder z
+ rename folder x z
+rename folder x q
+status
+open q
+print drives status
+create file ali txt 100
+jjjjjkllldl kldd d oldk kdkfdk 
+print file stats ali
+rename file ali ahmad
+print file stats ahmad
+print frequent folders
+print drives status
+go to drive B
+create file ali img 500
+100*220
+jpg
+copy file ali
+go to drive K
+open y
+paste
+status
+print drives status
+create folder ali
+back
+cut folder y
+go to drive B
+paste
+status
+print frequent folders
+open y
+print frequent folders
+go to drive K
+open q
+write text ahmad
+fdgfdgdfgdfgdf
+print file stats ahmad
+create file video mp4 9000
+create file video jjj 9000
+create file ahmad mp4 9000 
+create file video mp4 100
+720p
+10:56:20
+print drives status
+print file stats video
+status
+rename file video mahdi 
+create folder real
+delete file ahmad
+status
+print drives status
+create file ahmad txt 600
+jkdjfj kjd jfhsdg fjsd fsjdh gfsdjhfgsdhfgsdj fgsdj fsd
+status
+ copy file ahmad mahdi
+back
+open z
+paste
+go to drive B
+paste
+status
+print drives status
+print frequent folders
+delete folder y
+status
+print drives status
+print frequent folders
+end

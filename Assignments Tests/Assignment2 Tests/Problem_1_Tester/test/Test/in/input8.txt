@@ -1,0 +1,81 @@
+Add a customer with name a1 and 123 unit initial money.
+Add a customer with name a2 and 11210 unit initial money.
+Add a customer with name a3 and 113120 unit initial money.
+Add a customer with name a4 and 1110 unit initial money.
+Add a customer with name a5 and 110 unit initial money.
+Add a customer with name a6 and 1210 unit initial money.
+Add a customer with name a7 and 12140 unit initial money.
+Add a customer with name a8 and 110 unit initial money.
+Add a customer with name a9 and 1150 unit initial money.
+Add a customer with name a10 and 1710 unit initial money.
+Add a customer with name a11 and 11540 unit initial money.
+Add a customer with name a12 and 1110 unit initial money.
+Add a customer with name a13 and 1120 unit initial money.
+Add a customer with name a14 and 1140 unit initial money.
+Add a customer with name a15 and 1160 unit initial money.
+Add a customer with name a16 and 1110 unit initial money.
+Create bank melli1.
+Create bank melli2.
+Create bank melli3.
+Create bank melli4.
+Create bank melli5.
+Create bank melli6.
+Create bank melli7.
+Create a BOLAN account for a5 in melli1, with duration 4 and initial deposit of 31.
+Create a KOOTAH account for a2 in melli2, with duration 5 and initial deposit of 311.
+Create a BOLAN account for a3 in melli7, with duration 8 and initial deposit of 314.
+Create a BOLAN account for a4 in melli4, with duration 3 and initial deposit of 315.
+Create a VIZHE account for a12 in melli7, with duration 2 and initial deposit of 1231.
+Create a KOOTAH account for a7 in melli2, with duration 10 and initial deposit of 321.
+Create a BOLAN account for a15 in melli1, with duration 23 and initial deposit of 131.
+Create a BOLAN account for a7 in melli6, with duration 7 and initial deposit of 12431.
+Create a KOOTAH account for a5 in melli3, with duration 9 and initial deposit of 531.
+Create a BOLAN account for a2 in melli1, with duration 8 and initial deposit of 301.
+Create a KOOTAH account for a1 in melli4, with duration 1 and initial deposit of 310.
+Create a BOLAN account for a11 in melli6, with duration 7 and initial deposit of 431.
+Pass time by 5 unit.
+Pay a 151001 unit loan with %13 interest and 12 payments from melli2 to a2.
+Pay a 104150 unit loan with %36 interest and 12 payments from melli2 to a4.
+Pay a 1505107 unit loan with %41 interest and 6 payments from melli5 to a7.
+Pay a 104210 unit loan with %46 interest and 12 payments from melli4 to a8.
+Pay a 100643 unit loan with %16 interest and 6 payments from melli7 to a15.
+Pay a 10043 unit loan with %34 interest and 12 payments from melli3 to a12.
+Pay a 52 unit loan with %1 interest and 6 payments from melli1 to a13.
+Create a BOLAN account for a2 in melli1, with duration 8 and initial deposit of 301.
+Create a KOOTAH account for a1 in melli4, with duration 1 and initial deposit of 310.
+Create a BOLAN account for a11 in melli6, with duration 7 and initial deposit of 431.
+Pass time by 15 unit.
+Print a1's GAVSANDOOGH money.
+Print a2's GAVSANDOOGH money.
+Print a3's GAVSANDOOGH money.
+Print a4's GAVSANDOOGH money.
+Print a5's GAVSANDOOGH money.
+Print a6's GAVSANDOOGH money.
+Print a7's GAVSANDOOGH money.
+Print a8's GAVSANDOOGH money.
+Print a9's GAVSANDOOGH money.
+Print a10's GAVSANDOOGH money.
+Print a11's GAVSANDOOGH money.
+Print a12's GAVSANDOOGH money.
+Print a13's GAVSANDOOGH money.
+Print a14's GAVSANDOOGH money.
+Print a15's GAVSANDOOGH money.
+Print a16's GAVSANDOOGH money.
+Print a1's NOMRE MANFI count.
+Print a2's NOMRE MANFI count.
+Print a3's NOMRE MANFI count.
+Print a4's NOMRE MANFI count.
+Print a5's NOMRE MANFI count.
+Print a6's NOMRE MANFI count.
+Print a7's NOMRE MANFI count.
+Print a8's NOMRE MANFI count.
+Print a9's NOMRE MANFI count.
+Print a10's NOMRE MANFI count.
+Print a11's NOMRE MANFI count.
+Print a12's NOMRE MANFI count.
+Print a13's NOMRE MANFI count.
+Print a14's NOMRE MANFI count.
+Print a15's NOMRE MANFI count.
+Print a16's NOMRE MANFI count.
+Base dige, berid khonehatoon.
+

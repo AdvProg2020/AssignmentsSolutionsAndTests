@@ -1,0 +1,16 @@
+Add a customer with name agha tizi and 110 unit initial money.
+Create bank melli.
+Pay a 450 unit loan with %100 interest and 6 payments from mellat to agha tizi.
+Pay a 450 unit loan with %100 interest and 6 payments from melli to agha tizi.
+Pass time by 12 unit.
+Print agha tizi's GAVSANDOOGH money.
+Print agha tizi's NOMRE MANFI count.
+Create a VIZHE account for agha tizi in mellat, with duration 1 and initial deposit of 100.
+Create a VIZHE account for agha tizi in melli, with duration 1 and initial deposit of 100.
+Pass time by 10 unit.
+Print agha tizi's GAVSANDOOGH money.
+Create a VIZHE account for agha tizi in melli, with duration 1 and initial deposit of 10.
+Pass time by 5 unit.
+Print agha tizi's GAVSANDOOGH money.
+Base dige, berid khonehatoon.
+

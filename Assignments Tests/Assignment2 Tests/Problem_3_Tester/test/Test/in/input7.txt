@@ -1,0 +1,73 @@
+install OS windows 10
+75000 2
+X 10000
+Z 65000
+create folder one 
+print OS information
+create folder two
+rename folder two deleted
+delete folder deleted
+copy folder one
+create folder two 
+open two
+paste
+back
+copy folder one two
+open two
+open one
+paste
+go to drive X
+status
+create file s txt 1000
+dfgg dgd df  as oki [p[pokl
+write text s
+fg
+print frequent folders
+cut file s
+go ro drive Z
+paste
+rename file s s2
+print drives status
+status
+go to drive X
+open one
+create file image img 2000
+100*650
+png
+status
+delete file image
+create folder s
+create folder s2
+cut folder s s2
+go to drive Z
+paste
+open s
+create file k mp4 4000
+360p
+01:12:49
+print file stats
+print drives status
+status
+create file m mp4 1000
+240p
+03:10:50
+cut file m k
+go to drive X
+paste
+status
+print drive stats
+print file stats k
+create file dsfs img 50
+89*150 
+jpg
+copy file k dsfs
+copy file m
+copy folder one
+go to drive Z
+ create folder b
+open b
+paste
+status
+print file stats m
+print drives status
+end
