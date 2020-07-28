@@ -1,7 +1,7 @@
 # Assignments Solutions And Tests
  Assignments solutions and tests of Sharif Advanced Programming course
  
-## Assignment 1
+## [Assignment 1](https://github.com/AdvProg2020/Documents/tree/master/homeworks/HW1 "Assignment 1")
 ### Solutions
 - [Q1](https://github.com/AdvProg2020/AssignmentsSolutionsAndTests/tree/master/Assignments%20Solutions/Assignment1%20Solutions/Q1/src/Main.java "Q1")
 - [Q2](https://github.com/AdvProg2020/AssignmentsSolutionsAndTests/tree/master/Assignments%20Solutions/Assignment1%20Solutions/Q2/src/Main.java "Q2")
@@ -15,7 +15,7 @@
 - [Q4](https://github.com/AdvProg2020/AssignmentsSolutionsAndTests/tree/master/Assignments%20Tests/Assignment1%20Tests/Q4 "Q4")
 - [Q5](https://github.com/AdvProg2020/AssignmentsSolutionsAndTests/tree/master/Assignments%20Tests/Assignment1%20Tests/Q5 "Q5")
  
-## Assignment 2
+## [Assignment 2](https://github.com/AdvProg2020/Documents/tree/master/homeworks/HW2 "Assignment 2")
 ### Solutions
 - [Q1](https://github.com/AdvProg2020/AssignmentsSolutionsAndTests/tree/master/Assignments%20Solutions/Assignment2%20Solutions/Problem_1/src "Q1")
 - [Q2](https://github.com/AdvProg2020/AssignmentsSolutionsAndTests/tree/master/Assignments%20Solutions/Assignment2%20Solutions/Problem_2/src "Q2")
@@ -27,6 +27,8 @@
 - [Q3](https://github.com/AdvProg2020/AssignmentsSolutionsAndTests/tree/master/Assignments%20Tests/Assignment2%20Tests/Problem_3_Tester "Q3")
  
 ## Assignment 3
+- [Part 1](https://github.com/AdvProg2020/Documents/tree/master/homeworks/HW3-1 "Part 1")
+- [Part 2](https://github.com/AdvProg2020/Documents/tree/master/homeworks/HW3-2 "Part 2")
 ### Solutions
 - [Q1 - Generic](https://github.com/AdvProg2020/AssignmentsSolutionsAndTests/blob/master/Assignments%20Solutions/Assignment3%20Solutions/Q1%20-%20Generic/AkbarWorks.java "Q1 - Generic")
 - [Q4 - Network](https://github.com/AdvProg2020/AssignmentsSolutionsAndTests/tree/master/Assignments%20Solutions/Assignment3%20Solutions/Q4%20-%20Network/Submit_Full "Q4 - Network")
