@@ -1,5 +1,5 @@
-# Assignments Soloutions And Tests
- Assignments soloutions and tests of Sharif Advanced Programming course
+# Assignments Solutions And Tests
+ Assignments solutions and tests of Sharif Advanced Programming course
  
 ## Assignment 1
 ### Soloutions
